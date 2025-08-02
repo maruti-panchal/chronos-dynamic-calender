@@ -4,7 +4,7 @@ Chronos Calendar is a modern, feature-rich calendar application designed for pro
 
 ## 🌐 Live Demo
 
-Check out the live demo: [https://chronos-dynamic-calender.vercel.app/](https://chronos-dynamic-calender.vercel.app/)
+Check out the live demo: https://chronos-dynamic-calender.vercel.app/
 
 
 ## ✨ Features
