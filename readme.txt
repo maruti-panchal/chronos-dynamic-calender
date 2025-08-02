@@ -2,6 +2,11 @@
 
 Chronos Calendar is a modern, feature-rich calendar application designed for professionals and teams to manage schedules, events, and reminders with ease. Built with React, Next.js, and Tailwind CSS, it offers a beautiful UI, multiple calendar views, and advanced event management.
 
+## 🌐 Live Demo
+
+Check out the live demo: [https://chronos-dynamic-calender.vercel.app/](https://chronos-dynamic-calender.vercel.app/)
+
+
 ## ✨ Features
 
 - **Multiple Views:** Switch between Month, Week, Day, and Agenda views.
@@ -59,6 +64,7 @@ pnpm build
 3. Run the development server.
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+
 ## 📚 Customization
 
 - Edit `lib/sample-data.js` to change sample events and categories.
@@ -67,7 +73,3 @@ pnpm build
 ## 📝 License
 
 MIT
-
----
-
-Made with ❤️
